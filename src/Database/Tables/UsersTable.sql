@@ -1,0 +1,4 @@
+CREATE TABLE UsersTable( id VARCHAR(80), email VARCHAR(200) UNIQUE, password VARCHAR(200))
+
+
+
